@@ -115,7 +115,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "Bruno Mars - Grenade.ogg", name: "Bruno Mars - Grenade"},
-	{ogg: "Owl City - FireFlies.ogg", name: "Owl City - FireFlies"},
+	{ogg: "Owl City - Fireflies.ogg", name: "Owl City - FireFlies"},
 	{ogg: "Bruno Mars - That's What I Like.ogg", name: "Bruno Mars - That's What I Like"},
 ];
 
